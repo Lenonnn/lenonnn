@@ -17,7 +17,7 @@ Como estudante de TI tive contato com ```JAVA```, Banco de Dados, além de WEB c
 *Pra quem quiser me adiconar, segue alguns links de redes sociais*
 
 - [Linkedin](https://www.linkedin.com/in/lenon-soares-389394150/)
-- [RocketSeat App](https://app.rocketseat.com.br/me/lenon-1566895621)
+- [Rocketseat App](https://app.rocketseat.com.br/me/lenon-1566895621)
 
 Por Hobie, curto muito desenvolver com as stacks web que usam **JavaScript** :blue_heart:
 
